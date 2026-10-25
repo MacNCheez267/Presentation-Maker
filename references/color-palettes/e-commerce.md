@@ -1,0 +1,10 @@
+# E-Commerce Color Palettes
+
+| Palette | Primary | Secondary | Accent | Background | Text | Text/background check | Brand or product reference | Use note |
+|---|---|---|---|---|---|---|---|---|
+| General default | Rich Orange<br>`#A8681F` | Clear Yellow<br>`#BDC572` | Clear Cyan<br>`#1FCAE0` | Pale Amber<br>`#F9F8F6` | Deep Orange<br>`#2C261B` | AA small-text pass<br>14.13:1 | [Amazon](https://www.amazon.com/)<br>visual reference | A versatile retail foundation; reserve the accent for the clearest action. |
+| Luxury | Rich Orange<br>`#A87F1F` | Clear Lime<br>`#AFC572` | Clear Cyan<br>`#1FA9E0` | Pale Amber<br>`#F9F8F6` | Deep Amber<br>`#2C291B` | AA small-text pass<br>13.74:1 | [CHANEL](https://www.chanel.com/)<br>visual reference | Keep the gold accent sparse; use charcoal and ivory for most surfaces. |
+| Marketplace | Rich Coral<br>`#A8561F` | Clear Yellow<br>`#C5C372` | Clear Teal<br>`#1FE0DD` | Pale Orange<br>`#F9F8F6` | Deep Orange<br>`#2C231B` | AA small-text pass<br>14.51:1 | [Etsy](https://www.etsy.com/)<br>visual reference | Use a warm neutral base so varied seller imagery remains prominent. |
+| Subscription Box | Rich Rose<br>`#A81F6D` | Clear Red<br>`#C57272` | Clear Leaf<br>`#1FE022` | Pale Berry<br>`#F9F6F7` | Deep Rose<br>`#2C1B23` | AA small-text pass<br>15.18:1 | [FabFitFun](https://fabfitfun.com/)<br>visual reference | Use the accent for seasonal themes while keeping navigation stable. |
+| Food Delivery | Rich Rose<br>`#A81F63` | Clear Red<br>`#C57772` | Clear Leaf<br>`#1FE02F` | Pale Berry<br>`#F9F6F7` | Deep Rose<br>`#2C1B22` | AA small-text pass<br>15.19:1 | [foodpanda](https://www.foodpanda.com/)<br>visual reference | Use the vivid accent for order actions; keep menus and prices on light surfaces. |
+| Digital Goods Store | Clear Blue<br>`#5A91E2` | Clear Violet<br>`#8677CF` | Soft Coral<br>`#EE8972` | Deep Indigo<br>`#181A25` | Pale Blue<br>`#EEEFF1` | AA small-text pass<br>15.04:1 | [Steam](https://store.steampowered.com/)<br>visual reference | Use the dark surface for browsing; reserve the bright accent for purchase actions. |
